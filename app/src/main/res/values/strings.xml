@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GeoExam</string>
+    <string name="screen_title_job_listing">Job listing</string>
+    <string name="screen_title_job_creation">Job creation</string>
+</resources>
