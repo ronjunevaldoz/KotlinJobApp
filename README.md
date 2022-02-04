@@ -1,19 +1,19 @@
 ## User Guide
 
 ## Task
-- [ ] Create a login screen with a username and password
-- [ ] Once logged in, show a list of all available jobs, show the following details for each job
-      ● Reference
-      ● Title
-      ● Description
-      ● Client name (client first_name and last_name)
-      ● Company (client company)
-      ● Job Address (address1, city, state, postcode)
-      ● Status (job_status name)
-- [ ] Have a button to add a new job
-- [ ] When the button to add a new job is clicked, show a form to enter the following details
-      ● Title
-      ● Description
+- [x] Create a login screen with a username and password
+- [x] Once logged in, show a list of all available jobs, show the following details for each job
+   - Reference
+   - Title
+   - Description
+   - Client name (client first_name and last_name)
+   - Company (client company)
+   - Job Address (address1, city, state, postcode)
+   - Status (job_status name)
+- [x] Have a button to add a new job
+- [x] When the button to add a new job is clicked, show a form to enter the following details
+   - Title
+   - Description
 
 ## Comments and Suggestions
 - Consuming html tags from API data is not recommended in android application, It will break the material guide lines and override the design and layouts.
