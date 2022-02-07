@@ -28,6 +28,7 @@
 - [Serialization] - Kotlin serialization for encoding/decoding data
 - [Retrofit2] - Network service library
 - [DataStore] - Kotlin jetpack persistence used in android kotlin
+- [Coroutine] - Async code execution
 
 ## License
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
